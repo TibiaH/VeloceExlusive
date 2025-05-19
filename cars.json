@@ -1,0 +1,89 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "brand": "audi",
+        "model": "R8",
+        "year": 2011,
+        "price_per_day": 1400
+      },
+      {
+        "id": 2,
+        "brand": "BMW",
+        "model": "X7",
+        "year": 2024,
+        "price_per_day": 1400
+      },
+      {
+        "id": 3,
+        "brand": "BMW",
+        "model": "8-series",
+        "year": 2018,
+        "price_per_day": 1400
+      },
+      {
+        "id": 4,
+        "brand": "BMW",
+        "model": "7-series",
+        "year": 2021,
+        "price_per_day": 1400
+      },
+      {
+        "id": 5,
+        "brand": "Audi",
+        "model": "A8",
+        "year": 2023,
+        "price_per_day": 1400
+      },
+      {
+        "id": 6,
+        "brand": "bentley",
+        "model": "FlyingSpur",
+        "year": 2014,
+        "price_per_day": 1400
+      },
+      {
+        "id": 7,
+        "brand": "Mercedes",
+        "model": "GLS",
+        "year": 2020,
+        "price_per_day": 1400
+      },
+      {
+        "id": 8,
+        "brand": "Mercedes",
+        "model": "s-class",
+        "year": 2018,
+        "price_per_day": 1400
+      },
+      {
+        "id": 9,
+        "brand": "porsche",
+        "model": "Cayene",
+        "year": 2020,
+        "price_per_day": 1400
+      },
+      {
+        "id": 10,
+        "brand": "porsche",
+        "model": "911",
+        "year": 2021,
+        "price_per_day": 1400
+      },
+      {
+        "id": 11,
+        "brand": "bentley",
+        "model": "continental",
+        "year": 2023,
+        "price_per_day": 1400
+      },
+      {
+        "id": 12,
+        "brand": "bentley",
+        "model": "Bentyga",
+        "year": 2021,
+        "price_per_day": 1400
+      }
+    ]
+  }
+  
